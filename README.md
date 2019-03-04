@@ -26,9 +26,11 @@
 
 ---
 ## SECTION 2 : EXECUTIVE SUMMARY / PAPER ABSTRACT
-This is a simple application to help recruiters screen the many profiles that are submitted for the various available positions.
-The purpose for this application is to cut down the time that the recruiters take to screen the many profiles.
+In the world of recruitment, matching the right talent to the vacancy is always a challenge. When a vacancy is posted, there will usually be many applications and the challenge is the arduous task of sieving through the sea of profiles.
+For this reason, I have come up with a simple application to help recruiters screen the profiles that are submitted for the available positions.
+The purpose for this application is to cut down the time that the recruiters take to screen the profiles.
 This application makes use of the KIE Workbench for the workflow, as well as the Decision Tree to execute the main logic.
+
 
 
 
@@ -74,7 +76,7 @@ HAN DONGCHOU FRANCIS	A0195414A
 ---
 ## SECTION 5 : PROJECT REPORT / PAPER
 
-`<Github File Link>` : <https://github.com/telescopeuser/Workshop-Project-Submission-Template/blob/master/ProjectReport/Project%20Report%20HDB-BTO.pdf>
+`<Github File Link>` : <https://github.com/francis-han/IRS-MR-2019-07-01-IS1PT-IND-HanDongchouFrancis-CandidateScreeningSystem/blob/master/ProjectReport/Project%20Report2.pdf>
 
 **Recommended Sections for Project Report / Paper:**
 - Executive Summary / Paper Abstract
