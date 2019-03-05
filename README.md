@@ -1,14 +1,4 @@
-﻿### Worksop Project Submission Template: Github Repository & Zip File
-
-**[Naming Convention]** CourseCode-StartDate-BatchCode-Group_or_Individual-TeamName_or_PersonName-ProjectName.zip
-
-* **[MTech Group Project Naming Example]** IRS-MR-2019-01-19-IS1PT-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[MTech Individual Project Naming Example]** IRS-MR-2019-07-01-IS1FT-IND-SamGuZhan-HDB_BTO_Process.zip
-
-* **[EEP Group Project Naming Example]** IRS-MR-2019-03-13-EEP-GRP-AwsomeSG-HDB_BTO_Recommender.zip
-
-* **[EEP Individual Project Naming Example]** IRS-MR-2019-08-22-EEP-IND-SamGuZhan-HDB_BTO_Process.zip
+﻿### CANDIDATE SCREENING SYSTEM
 
 [Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
 
@@ -58,20 +48,7 @@ HAN DONGCHOU FRANCIS	A0195414A
 
 > $ git clone https://github.com/telescopeuser/Workshop-Project-Submission-Template.git
 
-> $ source activate iss-env-py2
-
-> (iss-env-py2) $ cd Workshop-Project-Submission-Template/SystemCode/clips
-
-> (iss-env-py2) $ python app.py
-
 > **Go to URL using web browser** http://0.0.0.0:5000 or http://127.0.0.1:5000
-
-### [ 2 ] To run the system in other/local machine:
-### Install additional necessary libraries. This application works in python 2 only.
-
-> $ sudo apt-get install python-clips clips build-essential libssl-dev libffi-dev python-dev python-pip
-
-> $ pip install pyclips flask flask-socketio eventlet simplejson pandas
 
 ---
 ## SECTION 5 : PROJECT REPORT / PAPER
