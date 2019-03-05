@@ -1,5 +1,4 @@
-﻿### CANDIDATE SCREENING SYSTEM
-
+﻿### INDIVIDUAL PROJECT
 [Online editor for this README.md markdown file](https://pandao.github.io/editor.md/en.html "pandao")
 
 ---
